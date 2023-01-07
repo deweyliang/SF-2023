@@ -1,0 +1,2 @@
+*.edp linguist-language=C++
+*.yml linguist-language=yaml
